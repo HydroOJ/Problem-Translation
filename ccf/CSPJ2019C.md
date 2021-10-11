@@ -24,27 +24,27 @@ Print one line containing a positive integer denoting the maximum number of gold
 
 ## Explanation
 
-Sample input 1:
-The best strategy is:
-On the second day, spend all 100 gold coins to buy 5 units of souvenir 1.
-Sell all the 5 units of souvenir 1 on the third day and get 125 gold coins.
-Buy 6 units of souvenir 1 on the fourth day. 5 gold coins are left.
+Sample input 1:\
+The best strategy is:\
+On the second day, spend all 100 gold coins to buy 5 units of souvenir 1.\
+Sell all the 5 units of souvenir 1 on the third day and get 125 gold coins.\
+Buy 6 units of souvenir 1 on the fourth day. 5 gold coins are left.\
 On the sixth day, sell all souvenirs for 300 gold coins. On the fourth day there were 5 gold coins remaining, so now there are 305 gold coins remaining.
 
 After the superpower disappears, Xiaowei has 305 gold coins, which is the maximum possible.
 
-Sample input 2:
-The best strategy is:
-On the first day, spend all the gold coins to buy 10 units of souvenir 1.
-Sell all the units of souvenir 1 on the next day and get 150 gold coins. Buy 8 units of souvenir 2 and 1 unit of souvenir 3. 1 gold coin is remaining.
+Sample input 2:\
+The best strategy is:\
+On the first day, spend all the gold coins to buy 10 units of souvenir 1.\
+Sell all the units of souvenir 1 on the next day and get 150 gold coins. Buy 8 units of souvenir 2 and 1 unit of souvenir 3. 1 gold coin is remaining.\
 On the third day, sell all souvenirs and get 216 gold coins. On the second day, there was 1 gold coin left, so in total there are 217 gold coins left.
 
 After the superpower disappears, Xiaowei has 217 gold coins, which is the maximum possible.
 
 ## Constraints:
 
-For $10%$ of the data, $T = 1$.
-For $30%$ of the data, $T \le 4, N \le 4, M \le 100, 10 \le P_{i, j} \le 1001$.
-For another $15%$ of the data, $T \le 100, N = 1$.
-For another $15%$ of the data, $T = 2, N \le 100$.
+For $10%$ of the data, $T = 1$.\
+For $30%$ of the data, $T \le 4, N \le 4, M \le 100, 10 \le P_{i, j} \le 1001$.\
+For another $15%$ of the data, $T \le 100, N = 1$.\
+For another $15%$ of the data, $T = 2, N \le 100$.\
 For $100%$ of the data, $T \le 100, N \le 100, M \le 10^3, 1 \le P_{i, j} \le 10^4$. It is guaranteed that at any time, the number of gold coins that Xiaowei has can't exceed 10^4.

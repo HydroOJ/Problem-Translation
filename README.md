@@ -1,12 +1,10 @@
 # HydroOJ Problem Translation Project
 
+> English | [简体中文](/README-zh.md)
+
 The project commit to translate problems written by Chinese in HydroOJ to English.
 
-
-
-Previously, most non-Chinese speakers did not know the well-known problems in China before. Therefore, we want to help more non-Chinese speakers read these problems through the project.
-
-
+Previously, most non-Chinese speakers did not know the well-known OI problems written by Chinese before. Therefore, we want to help more non-Chinese speakers read these problems through the project.
 
 Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/), it will give you a T-shirt when you have send 4 pull requests to any Github repositories in October.
 
@@ -17,8 +15,6 @@ Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/), it will give
 Below is the problem that plans to translate. We will add more problem to the list when the work has been finished.
 
 -   Problems in CCF Exam (<https://hydro.ac/d/ccf/>): Contains the problems in recent years CSP/NOIP/NOI contest. The translated version is supports to save in path `/ccf`
-
-
 
 
 
@@ -33,4 +29,3 @@ Below is the problem that plans to translate. We will add more problem to the li
 ## Contact us
 
 -   Discord channel: https://discord.gg/vdxqPkUawE
-

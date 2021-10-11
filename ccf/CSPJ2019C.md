@@ -22,7 +22,8 @@ $i$-th of the next $T$ lines contains $N$ positive integers $P_{i, 1}, P_{i, 2},
 
 Print one line containing a positive integer denoting the maximum number of gold coins Xiaowei can have after his superpower disappears.
 
-```Sample Input 1
+```
+Sample Input 1
 6 1 100
 50
 20
@@ -31,17 +32,20 @@ Print one line containing a positive integer denoting the maximum number of gold
 25
 50
 ```
-```Sample Output 1
+```
+Sample Output 1
 305
 ```
 
-```Sample Input 2
+```
+Sample Input 2
 3 3 100
 10 20 15
 15 17 13
 15 25 16
 ```
-```Sample Output 2
+```
+Sample Output 2
 217
 ```
 

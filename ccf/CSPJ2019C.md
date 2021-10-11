@@ -22,7 +22,7 @@ $i$-th of the next $T$ lines contains $N$ positive integers $P_{i, 1}, P_{i, 2},
 
 Print one line containing a positive integer denoting the maximum number of gold coins Xiaowei can have after his superpower disappears.
 
-```input 1
+```input1
 6 1 100
 50
 20
@@ -58,10 +58,10 @@ Sell all the units of souvenir $1$ on the next day and get $150$ gold coins. Buy
 On the third day, sell all souvenirs and get $216$ gold coins. On the second day, there was $1$ gold coin left, so in total there are $217$ gold coins left.\
 After the superpower disappears, Xiaowei has $217$ gold coins, which is the maximum possible.
 
-## Constraints:
+## Constraints
 
-For $10%$ of the data, $T = 1$.\
-For $30%$ of the data, $T \le 4, N \le 4, M \le 100, 10 \le P_{i, j} \le 1001$.\
-For another $15%$ of the data, $T \le 100, N = 1$.\
-For another $15%$ of the data, $T = 2, N \le 100$.\
-For $100%$ of the data, $T \le 100, N \le 100, M \le 10^3, 1 \le P_{i, j} \le 10^4$. It is guaranteed that at any time, the number of gold coins that Xiaowei has can't exceed 10^4.
+For $10\%$ of the data, $T = 1$.\
+For $30\%$ of the data, $T \le 4, N \le 4, M \le 100, 10 \le P_{i, j} \le 1001$.\
+For another $15\%$ of the data, $T \le 100, N = 1$.\
+For another $15\%$ of the data, $T = 2, N \le 100$.\
+For $100\%$ of the data, $T \le 100, N \le 100, M \le 10^3, 1 \le P_{i, j} \le 10^4$. It is guaranteed that at any time, the number of gold coins that Xiaowei has can't exceed $10^4$.

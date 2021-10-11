@@ -8,15 +8,11 @@ Previously, most non-Chinese speakers did not know the well-known OI problems wr
 
 Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/), it will give you a T-shirt when you have send 4 pull requests to any Github repositories in October.
 
-
-
 ## What to translate
 
 Below is the problem that plans to translate. We will add more problem to the list when the work has been finished.
 
--   Problems in CCF Exam (<https://hydro.ac/d/ccf/>): Contains the problems in recent years CSP/NOIP/NOI contest. The translated version is supports to save in path `/ccf`
-
-
+- Problems in CCF Exam (<https://hydro.ac/d/ccf/>): Contains the problems in recent years CSP/NOIP/NOI contest. The translated version is supports to save in path `/ccf`.
 
 ## How to contribute
 
@@ -24,8 +20,6 @@ Below is the problem that plans to translate. We will add more problem to the li
 2. Save file to the right path(mentioned in `What to translate`), filename like `<Problem ID>.md`, and send pull request.
 3. Waiting for the review. If it not passed at once, repairs based on suggestions.
 
-
-
 ## Contact us
 
--   Discord channel: https://discord.gg/vdxqPkUawE
+- Discord channel: https://discord.gg/vdxqPkUawE

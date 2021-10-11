@@ -22,8 +22,7 @@ $i$-th of the next $T$ lines contains $N$ positive integers $P_{i, 1}, P_{i, 2},
 
 Print one line containing a positive integer denoting the maximum number of gold coins Xiaowei can have after his superpower disappears.
 
-```
-Sample Input 1
+```input 1
 6 1 100
 50
 20
@@ -32,41 +31,32 @@ Sample Input 1
 25
 50
 ```
-```
-Sample Output 1
+```output1
 305
 ```
 
-```
-Sample Input 2
+The best strategy is:\
+On the second day, spend all $100$ gold coins to buy $5$ units of souvenir $1$.\
+Sell all the $5$ units of souvenir $1$ on the third day and get $125$ gold coins.\
+Buy $6$ units of souvenir $1$ on the fourth day. $5$ gold coins are left.\
+On the sixth day, sell all souvenirs for $300$ gold coins. On the fourth day there were $5$ gold coins remaining, so now there are $305$ gold coins remaining.\
+After the superpower disappears, Xiaowei has $305$ gold coins, which is the maximum possible.
+
+```input2
 3 3 100
 10 20 15
 15 17 13
 15 25 16
 ```
-```
-Sample Output 2
+```output2
 217
 ```
 
-## Explanation
-
-Sample input 1:\
 The best strategy is:\
-On the second day, spend all 100 gold coins to buy 5 units of souvenir 1.\
-Sell all the 5 units of souvenir 1 on the third day and get 125 gold coins.\
-Buy 6 units of souvenir 1 on the fourth day. 5 gold coins are left.\
-On the sixth day, sell all souvenirs for 300 gold coins. On the fourth day there were 5 gold coins remaining, so now there are 305 gold coins remaining.
-
-After the superpower disappears, Xiaowei has 305 gold coins, which is the maximum possible.
-
-Sample input 2:\
-The best strategy is:\
-On the first day, spend all the gold coins to buy 10 units of souvenir 1.\
-Sell all the units of souvenir 1 on the next day and get 150 gold coins. Buy 8 units of souvenir 2 and 1 unit of souvenir 3. 1 gold coin is remaining.\
-On the third day, sell all souvenirs and get 216 gold coins. On the second day, there was 1 gold coin left, so in total there are 217 gold coins left.
-
-After the superpower disappears, Xiaowei has 217 gold coins, which is the maximum possible.
+On the first day, spend all the gold coins to buy $10$ units of souvenir $1$.\
+Sell all the units of souvenir $1$ on the next day and get $150$ gold coins. Buy $8$ units of souvenir $2$ and $1$ unit of souvenir $3$. $1$ gold coin is remaining.\
+On the third day, sell all souvenirs and get $216$ gold coins. On the second day, there was $1$ gold coin left, so in total there are $217$ gold coins left.\
+After the superpower disappears, Xiaowei has $217$ gold coins, which is the maximum possible.
 
 ## Constraints:
 

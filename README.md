@@ -2,7 +2,7 @@
 
 > English | [简体中文](/README-zh.md)
 
-The project commit to translate problems written by Chinese in HydroOJ to English.
+The project commit to translate problems written by Chinese in [HydroOJ](https://hydro.ac/) to English.
 
 Previously, most non-Chinese speakers did not know the well-known OI problems written by Chinese before. Therefore, we want to help more non-Chinese speakers read these problems through the project.
 

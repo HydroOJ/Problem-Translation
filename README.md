@@ -8,15 +8,17 @@ Previously, most non-Chinese speakers did not know the well-known OI problems wr
 
 Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/), a T-shirt will be for you if you send 4 pull request to any Github repositories in October!
 
+**Non-chinese speakers can also help translate by using google translate to first understand the problem and then rewriting it in proper english.**
+
 ## What to translate
 
 Below is the problem that plans to translate. We will add more problem to the list when the work has been finished.
 
-- Problems in CCF Exam (<https://hydro.ac/d/ccf/>): Contains the problems in recent years CSP/NOIP/NOI contest. The translated version is supports to save in path `/ccf`.
+- Problems in CCF Exam (<https://hydro.ac/d/ccf/p>): Contains the problems in recent years CSP/NOIP/NOI contest. The translated version is supports to save in path `/ccf`.
 
 ## How to contribute
 
-1. Select a problem which hasn't been translated, and translate it into an English statement. The format of the English statement must meet the specifications. You can refer to [template.md](https://github.com/HydroOJ/Problem-Translation/template.md) and other translated statements.
+1. Select a problem which hasn't been translated, and translate it into an English statement. The format of the English statement must meet the specifications. You can refer to [template.md](https://github.com/HydroOJ/Problem-Translation/blob/main/template.md) and other translated statements.
 2. Save files to the right path(mentioned in 'What to translate'), filename like `<Problem ID>.md`, and send them to pull request.
 3. Waiting for the review. If it is not passed at first time,please repair it based on suggestions.
 

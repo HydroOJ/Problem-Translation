@@ -1,8 +1,6 @@
 ## Description
 
-In daily routines, people prefer to sort binary strings of length $n$ lexicographically. For example, 
-
-if we sort binary strings of length $2$ increasingly, we will get: $00$, $01$, $10$, $11$.
+In daily routines, people prefer to sort binary strings of length $n$ lexicographically. For example, if we sort binary strings of length $2$ increasingly, we will get: $00$, $01$, $10$, $11$.
 
 Gray Code is a special sorting method to sort binary strings of length $n$. It requires adjacent binary strings has **exactly** one digit in differ. Specifically, the first string and the last string is also considered as adjacent.
 
@@ -36,31 +34,23 @@ The only line of the input consists two integers: $n,k$.
 
 Output a single binary string of length $n$ in one line denoting the answer.
 
-```
+```input1
 2 3
 ```
-
-```
+```output1
 10
 ```
 
-
-
-```
+```input2
 3 5
 ```
-
-```
+```output2
 111
 ```
 
 ## Constraints
 
-For $50\%$ of the data, $n\le 10$ ;
-
-For $80\%$ of the data, $k \le 5\times 10^6$ ;
-
-For $95\%$ of the data, $k\le 2^{63}-1$ ;
-
+For $50\%$ of the data, $n\le 10$;  
+For $80\%$ of the data, $k \le 5\times 10^6$;  
+For $95\%$ of the data, $k\le 2^{63}-1$;  
 For $100\%$ of the data, $1\le n \le 64$, $0\le k < 2^n$.
-

@@ -61,4 +61,5 @@ For $20\%$ of data, $n=3$.\
 For $40\%$ of data, $n \le 10$.\
 For $55\%$ of data, $n \le 2*10^3$.\
 For $70\%$ of data, $n \le 5*10^4$.\
-For $100\%$ of data, $n \le 10^6, 1 \le T \le 10, 0 \le k \le 10^5, 0 \le a_i, y \le 10^9$.
+For $100\%$ of data, $n \le 10^6, 1 \le T \le 10, 0 \le k \le 10^5, 0 \le a_i, y \le 10^9$.\
+It's guaranteed that in every dataset, $a_i$ will be arranged in non-decreasing order.

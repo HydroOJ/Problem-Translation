@@ -44,8 +44,6 @@ If there is no excellent split, output -1.
 -1
 ```
 
-
-
 ## Constraints
 
 For $20\%$ of the data, $n \le 10$.

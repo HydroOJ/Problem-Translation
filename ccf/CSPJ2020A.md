@@ -28,21 +28,19 @@ If there is an excellent split among all the splits of this number, then you nee
 
 If there is no excellent split, output -1.
 
-## Sample Input 1
-```
+```input1
 6
 ```
-## Sample Output 1
-```
+
+```output1
 4 2
 ```
 
-## Sample Input 2
-```
+```input2
 7
 ```
-## Sample Output 2
-```
+
+```output2
 -1
 ```
 

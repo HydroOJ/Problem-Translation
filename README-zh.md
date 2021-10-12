@@ -16,7 +16,7 @@
 
 ## 贡献方式
 
-1. 选择一道来自“翻译内容”链接中的尚未被翻译的题目，将其翻译为英文题面，英文题面格式需要符合规范，可以参考 [template.md](https://github.com/HydroOJ/Problem-Translation/template.md) 和已翻译的其他题面。
+1. 选择一道来自“翻译内容”链接中的尚未被翻译的题目，将其翻译为英文题面，英文题面格式需要符合规范，可以参考 [template.md](https://github.com/HydroOJ/Problem-Translation/blob/main/template.md) 和已翻译的其他题面。
 2. 将题面保存到 `<题号>.md`，放置在对应文件夹下（“翻译内容”中有说明）并提交 Pull Request。
 3. 等待我们的审核，并根据我们提出的意见进行修缮。
 

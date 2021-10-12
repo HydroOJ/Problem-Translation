@@ -18,7 +18,7 @@ Below is the problem that plans to translate. We will add more problem to the li
 
 ## How to contribute
 
-1. Select a problem which hasn't been translated, and translate it into an English statement. The format of the English statement must meet the specifications. You can refer to [template.md](https://github.com/HydroOJ/Problem-Translation/template.md) and other translated statements.
+1. Select a problem which hasn't been translated, and translate it into an English statement. The format of the English statement must meet the specifications. You can refer to [template.md](https://github.com/HydroOJ/Problem-Translation/blob/main/template.md) and other translated statements.
 2. Save files to the right path(mentioned in 'What to translate'), filename like `<Problem ID>.md`, and send them to pull request.
 3. Waiting for the review. If it is not passed at first time,please repair it based on suggestions.
 

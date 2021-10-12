@@ -14,7 +14,7 @@ Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/), a T-shirt wi
 
 Below is the problem that plans to translate. We will add more problem to the list when the work has been finished.
 
-- Problems in CCF Exam (<https://hydro.ac/d/ccf/>): Contains the problems in recent years CSP/NOIP/NOI contest. The translated version is supports to save in path `/ccf`.
+- Problems in CCF Exam (<https://hydro.ac/d/ccf/p>): Contains the problems in recent years CSP/NOIP/NOI contest. The translated version is supports to save in path `/ccf`.
 
 ## How to contribute
 

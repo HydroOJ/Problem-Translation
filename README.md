@@ -8,6 +8,8 @@ Previously, most non-Chinese speakers did not know the well-known OI problems wr
 
 Thanks to [Hacktoberfest](https://hacktoberfest.digitalocean.com/), a T-shirt will be for you if you send 4 pull request to any Github repositories in October!
 
+**Non-chinese speakers can also help translate by using google translate to first understand the problem and then rewriting it in proper english.**
+
 ## What to translate
 
 Below is the problem that plans to translate. We will add more problem to the list when the work has been finished.

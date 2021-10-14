@@ -15,7 +15,7 @@ Little Q has a rooted tree which rooted at node $1$ and the number of nodes is $
 
 Little Q finds that there is exactly one bracket on each node of this tree, which may be `(` or `)`. He defines $s_i$ as a string composed of brackets on the simple path from the root node to the node $i$ and arranged in sequence according to the sequence of the nodes.
 
-Obviously $s_i$ is a bracket string , but it may not be a "legal bracket string". So now Little Q wants to find out how many **different** substrings of $s_i$ are "legal bracket strings" for all $i(1\le i\le n)$.
+Obviously $s_i$ is a bracket string, but it may not be a "legal bracket string". So now Little Q wants to find out how many **different** substrings of $s_i$ are "legal bracket strings" for all $i(1\le i\le n)$.
 
 Assuming that there are $k_i$ different substrings of $s_i$ as "legal bracket strings", you only need to tell Little Q the bitwise XOR of all $i\times k_i$, which is:
 $$

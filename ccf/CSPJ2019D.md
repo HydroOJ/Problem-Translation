@@ -40,7 +40,7 @@ No
 Yes
 ```
 
-file://5dbepjmh.png
+![](file://5dbepjmh.png)
 
 For the first work order, worker 1 wants to produce a stage 1 part, so worker 2 needs to provide raw materials.
 
@@ -75,7 +75,7 @@ Yes
 Yes
 ```
 
-file://tfom5z2s.png
+![](file://tfom5z2s.png)
 
 For the first work order, worker 1 wants to produce a stage 1 part, so workers 2 and 5 need to provide raw materials.
 
@@ -91,8 +91,8 @@ For the fifth work order, worker 1 wants to produce a stage 5 part, workers 2 an
 
 There are a total of 20 tests.\
 $1 \le u, v, a \le n$\
-Test $1 ~ 4$: $1 \le n, m \le 1000, q = 3, L = 1$\
-Test $5 ~ 8$: $1 \le n, m \le 1000, q = 3, 1 \le L \le 10$\
-Test $9 ~ 12$: $1 \le n, m, L \le 1000, 1 \le q \le 100$\
-Test $13 ~ 16$: $1 \le n, m, L \le 1000, 1 \le q \le 10^5$\
-Test $17 ~ 20$: $1 \le n, m, q \le 10^5, 1 \le L \le 10^9$
+Test $1 \sim 4$: $1 \le n, m \le 1000, q = 3, L = 1$\
+Test $5 \sim 8$: $1 \le n, m \le 1000, q = 3, 1 \le L \le 10$\
+Test $9 \sim 12$: $1 \le n, m, L \le 1000, 1 \le q \le 100$\
+Test $13 \sim 16$: $1 \le n, m, L \le 1000, 1 \le q \le 10^5$\
+Test $17 \sim 20$: $1 \le n, m, q \le 10^5, 1 \le L \le 10^9$

@@ -40,10 +40,10 @@ The second table below shows the scores of the participants from high to low (wh
 
 ## Constraints
 
-Tests $1 \sim 3$: $n = 10$
-Tests $4 \sim 6$: $n = 500$
-Tests $7 \sim 10$: $n = 2000$
-Tests $11 \sim 17$: $n = 10^4$
+Tests $1 \sim 3$: $n = 10$\
+Tests $4 \sim 6$: $n = 500$\
+Tests $7 \sim 10$: $n = 2000$\
+Tests $11 \sim 17$: $n = 10^4$\
 Tests $18 \sim 20$: $n = 10^5$
 
 For all the tests, each participant's score is a non-negative integer not greater than $600$, the win percentage $w$ is a positive integer, and $1 \le w \le 99$.

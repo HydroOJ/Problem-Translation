@@ -2,7 +2,7 @@
 
 NOI2130 will be held soon. In order to improve the viewing experience, CCF decided to reveal the scores of each participant one by one and broadcast real-time cutoffs. The win percentage of the competition is $w\%$, which means that among the participants who are currently in the top $w\%$, the minimum score of a participant is the current cutoff for winning.
 
-More specifically, if the scores of $p$ participants have been revealed, the number of winners according to current scores is $\max(1, \floor{p * w\%})$, where $w$ is the win percentage of the competition, $\floor{x}$ is the largest integer that doesn't exceed $x$, and $\max(x, y)$ is the the larger number out of $x$ and $y$. If there are multiple participants with the same score as the cutoff, all of them are also winners, so the actual number of winners may be more than calculated above.
+More specifically, if the scores of $p$ participants have been revealed, the number of winners according to current scores is $\max(1, \lfloor p \times w\%\rfloor)$, where $w$ is the win percentage of the competition, $\lfloor x \rfloor$ is the largest integer that doesn't exceed $x$, and $\max(x, y)$ is the the larger number out of $x$ and $y$. If there are multiple participants with the same score as the cutoff, all of them are also winners, so the actual number of winners may be more than calculated above.
 
 As a technician of the evaluation team, please help CCF write a live broadcast program.
 

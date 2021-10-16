@@ -42,4 +42,4 @@ For $20\%$ of the data, $n \le 10$.
 For another $20\%$ of the data,  $n$ is guaranteed to be odd.  
 For another $20\%$ of the data, $n$ is guaranteed to be a positive power of $2$.  
 For $80\%$ of the data, $n \le 1024$.  
-For $100\%$ of the data, $ 1 \le n \le 10^7$.
+For $100\%$ of the data, $1 \le n \le 10^7$.

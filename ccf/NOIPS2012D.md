@@ -1,4 +1,3 @@
-
 ## Description
 
 Find the smallest positive integer $x$ such it satisfies the congruence equation $ax \equiv 1 \pmod{b}$.
@@ -20,8 +19,6 @@ The output is only one line and contains a positive integer $x_0$, that is, the 
 
 ## Constraints
 
-For $40\%$ data,  $2 \leq b \leq 10^3$
-
-For $60\%$ data, $2 \leq b \leq 5 \times 10^7$
-
-For $100\%$ data, $2 \leq a, b\leq 2 \times 10^9$
+For $40\%$ data,  $2 \leq b \leq 10^3$.  
+For $60\%$ data, $2 \leq b \leq 5 \times 10^7$.  
+For $100\%$ data, $2 \leq a, b\leq 2 \times 10^9$.

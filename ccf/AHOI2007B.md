@@ -6,8 +6,8 @@ Little Coco carefully studied the treasure map and found that to open this door,
 
 Among them, $E_n$​ is:
 
-    If $i=j$, $E_{i,j}=1$;
-    Otherwise, $E_{i,j}=0$.
+- If $i=j$, $E_{i,j}=1$;
+- Otherwise, $E_{i,j}=0$.
 
 Namely, $B$ is the inverse matrix of $A$.
 

@@ -59,4 +59,4 @@ For $30\%$ of the data, $n \le 1000$.\
 For $70\%$ of the data, $n \le 50000$.\
 For $100\%$ of the data, $n \le 2 \times 10^5$.
 
-Due to the large size of the data, it is recommended that C/C++ users use scanf and printf for input and output.
+Due to the large size of the data, it is recommended that C/C++ users use `scanf` and `printf` for input and output.
